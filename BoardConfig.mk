@@ -5,7 +5,7 @@
 #
 
 # Inherit from the proprietary version
-include vendor/xiaomi/miuicamera-renoir/vendor/BoardConfigVendor.mk
+include vendor/xiaomi/camera-renoir/vendor/BoardConfigVendor.mk
 
 MIUICAMERA_PATH := vendor/xiaomi/miuicamera-renoir
 
