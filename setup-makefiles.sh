@@ -7,8 +7,8 @@
 
 set -e
 
-DEVICE=vendor
-VENDOR=xiaomi/miuicamera-renoir
+DEVICE= device/xiaomi/camera
+VENDOR= vendor/xiaomi/camera
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
